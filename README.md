@@ -1,8 +1,8 @@
-# eShop
+# MyN - Indumentaria
 
 ## Descripción
 
-eShop es una web app para la venta de indumentaria. Permite agregar, editar y eliminar productos, así como visualizarlos en una interfaz responsive y gestionar un carrito de compras.
+MyN es una web app para la venta de indumentaria. Permite agregar, editar y eliminar productos, así como visualizarlos en una interfaz responsive y gestionar un carrito de compras.
 
 ## Requisitos
 
