@@ -1,0 +1,16 @@
+body {
+    padding-top: 60px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.alert-messages {
+    margin-top: 20px;
+}
